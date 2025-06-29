@@ -1,0 +1,1 @@
+Um aplicativo Android nativo desenvolvido em Kotlin para o registro e visualização de itens de inventário. Este projeto foi criado como uma demonstração prática de conceitos fundamentais do desenvolvimento Android moderno.
